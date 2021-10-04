@@ -1,2 +1,2 @@
 # Transfer-Learning-Object-Dection-with-Vgg16
- A monkey species dection model.
+ A monkey species dection model using transfer learning.
